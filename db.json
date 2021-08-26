@@ -1,6 +1,6 @@
 {
   "activeAccounts": [
-    { "id": 1, "basActiveAccountResponseResponseEnvelope": {"data": {"ids" : [123, 12345, 133546]}, "errors" : [], "status": OK }
+    { "id": 1, "basActiveAccountResponseResponseEnvelope": {"data": {"ids" : [123, 12345, 133546]}, "errors" : [], "status": OK }}
   ],
   "syncStatus": [
     { "id": 123, "data": {"inSync": true}} ,
