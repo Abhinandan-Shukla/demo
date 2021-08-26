@@ -17,23 +17,29 @@
     { 
       "id": 123,
       "basSyncStatusResponseResponseEnvelope":
+      {
         "data": {"inSync": true},
         "errors": [],
         "status": "OK"
+      }
     } ,
     { 
       "id": 12345,
       "basSyncStatusResponseResponseEnvelope":
+      {
         "data": {"inSync": false},
         "errors": [],
         "status": "OK"
+      }
     } ,
     { 
       "id": 123456,
       "basSyncStatusResponseResponseEnvelope":
+      {
         "data": {"inSync": true},
         "errors": [],
         "status": "OK"
+      }
     }
   ]
 }
