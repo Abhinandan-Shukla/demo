@@ -33,12 +33,11 @@
       }
     } ,
     { 
-      "id": 123456,
+      "id": 123546,
       "basSyncStatusResponseResponseEnvelope":
       {
-        "data": {"inSync": true},
-        "errors": [],
-        "status": "OK"
+        "errors": [{"message": "id not found"}],
+        "status": "NOT_FOUND"
       }
     }
   ]
