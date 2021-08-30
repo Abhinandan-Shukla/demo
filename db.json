@@ -18,7 +18,7 @@
       "id": 123,
       "basSyncStatusResponseResponseEnvelope":
       {
-        "data": {"inSync": true},
+        "data": {"accountId": 123,"advertiserId": 456, "inSync": true},
         "errors": [],
         "status": "OK"
       }
@@ -27,7 +27,7 @@
       "id": 12345,
       "basSyncStatusResponseResponseEnvelope":
       {
-        "data": {"inSync": false},
+        "data": {"accountId": 12345,"advertiserId": 45678, "inSync": false},
         "errors": [],
         "status": "OK"
       }
